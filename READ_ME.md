@@ -1,7 +1,7 @@
 
 # Email tracker
 
- - Go version *1.10.3 (windows/amd64)*
+ - Go version * ≥ 1.5 (windows/amd64)*
 
 
 Basic email parser for __severals URLs given__, return the list of emails found on these URLs.
@@ -15,7 +15,7 @@ Basic email parser for __severals URLs given__, return the list of emails found 
 ## Run
 
     $ go run emailParser.go
-    
+
 
 ## Exemple
 
