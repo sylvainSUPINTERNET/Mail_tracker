@@ -17,6 +17,7 @@ func main() {
 		for x := range mailList {
 			fmt.Println(mailList[x])
 		}
+		os.Exit(0);
 	}
 }
 
