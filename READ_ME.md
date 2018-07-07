@@ -14,7 +14,7 @@ Basic email parser for __severals URLs given__, return the list of emails found 
 
 ## Run
 
-    $ go run emailParser.go
+    $ go run emailParser.go [URL-1] [URL-2] . . .
 
 
 ## Exemple
